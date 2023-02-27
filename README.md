@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshkale&label=Profile%20views&color=0e75b6&style=flat" alt="umeshkale" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working as **Machine Learning Engineer**
 
 - 💬 Ask me about **Python & ML**
 
-- 📫 How to reach me **umeshkale1@live.com**
+- 📫 How to reach me **umeshkale1@outlook.com**
 
 - ⚡ Fun fact **My average daily time on Spotify is 6 hours**
 
