@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **umeshkale1@outlook.com**
 
-- ⚡ Fun fact **My average daily time on Spotify is 6 hours**
+- ⚡ Fun fact **My average daily time on Spotify is 2 hours**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
